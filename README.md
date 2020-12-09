@@ -11,6 +11,5 @@ Highlighted projects include, but are not limited to:
 * Workout Mongo [Repo](https://github.com/razzlejazzled/Workout-Mongo)
 * Hops & Hounds [Repo](https://github.com/razzlejazzled/Project1)
 
-
 ### Deployment
 The deployed site is deployed via Github pages and can be found [here](https://razzlejazzled.github.io/RJ-G-Portfolio/)
